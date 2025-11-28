@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cloudflare",
+    "host": "1.1.1.1"
+  },
+  {
+    "name": "Google",
+    "host": "8.8.8.8"
+  },
+  {
+    "name": "MushMC",
+    "host": "mushmc.com"
+  },
+  {
+    "name": "Uol",
+    "host": "uol.com.br"
+  },
+  {
+    "name": "Globo G1",
+    "host": "g1.globo.com"
+  },
+  {
+    "name": "Folha UOL",
+    "host": "folha.uol.com.br"
+  },
+  {
+    "name": "Claro",
+    "host": "claro.com.br"
+  },
+  {
+    "name": "Vivo",
+    "host": "vivo.com.br"
+  },
+  {
+    "name": "Teste",
+    "host": "teste.hasdk.com"
+  }
+]
